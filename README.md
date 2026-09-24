@@ -15,7 +15,7 @@ A simple home-office power controller that uses a TV's USB output to control a p
 
 ## 🔹 Rev 1 Schematic
 
-![Rev 1](<Schematics/Rev 1.png>)
+![Rev 1](<Schematics/Rev 1/Plotted/Switchy.svg>)
 
 ## 🔹 Rev 1
 
