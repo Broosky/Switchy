@@ -3,7 +3,6 @@
 A simple home-office power controller that uses a TV's USB output to control a power bar, automatically turning additional monitors, speakers, and other peripherals on and off with the TV.
 
 > If you found this project useful, interesting, or worth keeping an eye on, consider giving it a ⭐️.
-> It helps others discover the project and motivates me to keep building and sharing more.
 
 ## 🔹 Construction
 
